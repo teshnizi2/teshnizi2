@@ -36,10 +36,19 @@ reinforcement learning for defect prediction, spectral and vision models, and Wi
 Large language models and agents, computer vision, reinforcement learning, multimodal learning,
 recommender systems.
 
+### Selected repositories
+
+| Repo | What it is |
+| --- | --- |
+| [go2-ball-follower](https://github.com/teshnizi2/go2-ball-follower) | Vision-based ball following on a MuJoCo Go2 quadruped, with reactive obstacle avoidance |
+| [Modern-information-retrieval](https://github.com/teshnizi2/Modern-information-retrieval) | Search engine over Semantic Scholar papers: BM25 and TF-IDF ranking, transformer classifiers, personalized PageRank |
+| [ghostbyte](https://github.com/teshnizi2/ghostbyte) | Why two strings will not compare equal: codepoint diff, equality matrix, homoglyph and bidi flags, all in the browser |
+| [Compiler](https://github.com/teshnizi2/Compiler) | C-minus compiler with an LR(1) parser and three-address code generation |
+| [leiden-mfa-autopass](https://github.com/teshnizi2/leiden-mfa-autopass) | Browser extension that automates Leiden University's 2FA |
+| [CS231n-Assignments](https://github.com/teshnizi2/CS231n-Assignments) | Stanford CS231n: image classification, detection and transfer learning with CNNs |
+
 ### Elsewhere
 
 [teshnizi.dev](https://teshnizi.dev) &middot;
 [Google Scholar](https://scholar.google.com/citations?user=GuZoTw4AAAAJ) &middot;
 [LinkedIn](https://www.linkedin.com/in/reza-teshnizi-203a5933a/)
-
-<!-- profile README -->
