@@ -8,14 +8,14 @@ of the model and the system around it.
 
 ### What I'm building
 
-**[StudyPuff](https://www.studypuff.com/)** is a real-time collaborative study platform used by
-17,000+ students across 46+ countries. I build the product and the models inside it. The team was
-selected for Venture Academy at PLNT, Leiden's startup incubator.
+**[StudyPuff](https://www.studypuff.com/)** is a live study platform where students join others who
+are already studying, so nobody has to study alone. I'm a co-founder, and I build the product and
+the models inside it. The team was selected for Venture Academy at PLNT, Leiden's startup incubator.
 
 **[PreciseICP](https://autolabkimia.com/)** automates quality control for chemistry labs running
 ICP-OES, covering wavelength selection, calibration-regression flagging, dilution correction and
-per-batch validation against certified reference materials. I co-founded it, and it runs in
-production at 30+ commercial laboratories.
+per-batch validation against certified reference materials. I founded the company behind it,
+AutoLabKimia, and 30+ commercial laboratories use it.
 
 ### Research
 
@@ -27,6 +27,10 @@ Applied deep learning and reinforcement learning. Three published papers and one
 | [Smart Bean Analysis: Rapid Detection with Spectral Data and Deep Learning](https://doi.org/10.2478/ata-2026-0011) | Acta Technologica Agriculturae | 2026 |
 | [SDPERL: Software Defect Prediction Using Ensemble Feature Extraction and Reinforcement Learning](https://arxiv.org/abs/2412.07927) | arXiv | 2024 |
 | [Counterfeit Detection of Iranian Black Tea Using Image Processing and Deep Learning](https://www.mdpi.com/2311-7524/10/7/665) | Horticulturae | 2024 |
+
+Currently a research assistant at LIACS with
+[Dr. Saber Salehkaleybar](https://scholar.google.com/citations?user=-f0AwZcAAAAJ), on a paper that extends
+MetaOptimize, a method that learns its own step sizes while a network trains.
 
 Previously a research assistant at Sharif in the HABIBI, RIML and RADIAN labs, working on
 reinforcement learning for defect prediction, spectral and vision models, and WiFi-CSI sensing.
