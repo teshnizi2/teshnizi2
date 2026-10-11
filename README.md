@@ -10,7 +10,8 @@ of the model and the system around it.
 
 **[StudyPuff](https://www.studypuff.com/)** is a live study platform where students join others who
 are already studying, so nobody has to study alone. I'm a co-founder, and I build the product and
-the models inside it. The team was selected for Venture Academy at PLNT, Leiden's startup incubator.
+the models inside it. Our founder, Elaine Herkul, runs the [StudyWithElaine](https://www.youtube.com/c/StudyWithElaine) YouTube
+channel, which has 17.1k subscribers. The team was selected for Venture Academy at PLNT, Leiden's startup incubator.
 
 **[PreciseICP](https://autolabkimia.com/)** automates quality control for chemistry labs running
 ICP-OES, covering wavelength selection, calibration-regression flagging, dilution correction and
