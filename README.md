@@ -20,12 +20,13 @@ AutoLabKimia, and 30+ commercial laboratories use it.
 
 ### Research
 
-Applied deep learning and reinforcement learning. Three published papers and one preprint:
+Applied deep learning and reinforcement learning. Four published papers and one preprint:
 
 | Paper | Venue | Year |
 | --- | --- | --- |
 | [Training Noise Sensitivity Analysis for NIR Spectroscopic Detection of Pinto Bean Adulteration](https://doi.org/10.1007/s44187-026-01178-3) | Discover Food | 2026 |
 | [Smart Bean Analysis: Rapid Detection with Spectral Data and Deep Learning](https://doi.org/10.2478/ata-2026-0011) | Acta Technologica Agriculturae | 2026 |
+| [Development of a Computer Vision System for Classifying Leaves of Five Distinct Tree Species](https://doi.org/10.22069/bere.2025.23451.1024) | Biosystems Engineering and Renewable Energies | 2025 |
 | [SDPERL: Software Defect Prediction Using Ensemble Feature Extraction and Reinforcement Learning](https://arxiv.org/abs/2412.07927) | arXiv | 2024 |
 | [Counterfeit Detection of Iranian Black Tea Using Image Processing and Deep Learning](https://www.mdpi.com/2311-7524/10/7/665) | Horticulturae | 2024 |
 
