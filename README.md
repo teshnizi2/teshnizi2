@@ -14,7 +14,7 @@ channel, run by Elaine Herkul, has 17.1k subscribers. The team was selected for 
 
 **[PreciseICP](https://autolabkimia.com/)** automates quality control for chemistry labs running
 ICP-OES, covering wavelength selection, calibration-regression flagging, dilution correction and
-per-batch validation against certified reference materials. I founded the company behind it,
+per-batch validation against certified reference materials. I co-founded the company behind it,
 AutoLabKimia, and 30+ commercial laboratories use it.
 
 ### Research
